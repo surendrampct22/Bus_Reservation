@@ -16,11 +16,11 @@ User Features:
 
 **ER Diagrm**
 
-https://github.com/surendrampct22/Bus_Reservation/issues/1#issue-2270539351
 ![ERDiagram2](https://github.com/surendrampct22/Bus_Reservation/assets/168508918/5a6f73f7-2d03-4d66-b9f4-21d567913499)
 
 
 **Flow Chart**
+![safar2](https://github.com/surendrampct22/Bus_Reservation/assets/168508918/efef6210-9b72-4f94-8325-a907d69f1b5e)
 
 
 **Modules**
