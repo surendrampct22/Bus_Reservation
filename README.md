@@ -34,15 +34,15 @@ Feedback Module,
 
 
 **🏷️ Tech Stack Used :-**
-Java
-Spring Framework
-Spring Boot
-Spring Data JPA
-Hibernate
-MySQL
-HTML
-CSS
-JavaScript
+Java, 
+Spring Framework, 
+Spring Boot, 
+Spring Data JPA, 
+Hibernate, 
+MySQL, 
+HTML, 
+CSS, 
+JavaScript, 
 
 
 **Installation & Run**
