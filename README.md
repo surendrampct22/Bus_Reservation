@@ -24,13 +24,13 @@ User Features:
 
 
 **Modules**
-Login, Logout Module
-Admin Module
-User Module
-Route Module
-Bus Module
-Reservation Module
-Feedback Module
+Login, Logout Module, 
+Admin Module, 
+User Module, 
+Route Module, 
+Bus Module, 
+Reservation Module, 
+Feedback Module, 
 
 
 **🏷️ Tech Stack Used :-**
